@@ -1,6 +1,6 @@
 <h1 align="center">Hi There, I'm Maheswar👋 </h1>
 <h3 align="center">Masters in Data Analytics at Northeastern University, Boston, MA </h3>
-<h3>Interested in : Data Analysis | Data Science | Machine Learning | Intelligent Analytics</h3>
+<h3 align="center">Interested in : Data Analysis | Data Science | Machine Learning | Intelligent Analytics</h3>
 
 • 🔭 I’m currently working on developing predictive models using machine learning to analyze and interpret complex data sets. 
 
